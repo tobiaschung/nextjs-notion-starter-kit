@@ -8,7 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: 'Transitive Bullshit',
-  domain: 'https://nextjs-notion-starter-kit-ruby-chi.vercel.app/',
+//   domain: 'https://nextjs-notion-starter-kit-ruby-chi.vercel.app/',
+  domain: 'nextjs-notion-starter-kit-ruby-chi.vercel.app',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
