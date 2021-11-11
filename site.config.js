@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
+  domain: 'https://nextjs-notion-starter-kit-ruby-chi.vercel.app/',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
@@ -32,7 +32,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: null,
+  utterancesGitHubRepo: 'tobiaschung/nextjs-notion-starter-kit',
 
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
